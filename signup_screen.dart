@@ -22,7 +22,7 @@ class _SignupScreenState extends State<SignupScreen> {
             child: Row(
               children: <Widget>[Text('Login'), Icon(Icons.person)],
             ),
-            textColor: Colors.white,
+            textColor: Colors.black,
             onPressed: () {
               Navigator.of(context).pushReplacementNamed(LoginScreen.routeName);
             },
