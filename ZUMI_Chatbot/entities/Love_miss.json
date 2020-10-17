@@ -1,0 +1,24 @@
+{
+    "name": "Love_miss",
+    "roles": [
+        "Love_miss"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "havent met",
+            "synonyms": [
+                "havent met"
+            ]
+        },
+        {
+            "keyword": "want to talk",
+            "synonyms": [
+                "want to talk"
+            ]
+        }
+    ]
+}

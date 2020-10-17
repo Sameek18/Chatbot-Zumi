@@ -1,0 +1,24 @@
+{
+    "name": "tired",
+    "roles": [
+        "tired"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "rest.I",
+            "synonyms": [
+                "rest.i"
+            ]
+        },
+        {
+            "keyword": "very tired",
+            "synonyms": [
+                "very tired"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "love_hate",
+    "roles": [
+        "love_hate"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": []
+}

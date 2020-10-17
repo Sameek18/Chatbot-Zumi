@@ -1,0 +1,30 @@
+{
+    "name": "mood",
+    "roles": [
+        "mood"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "feeling so lonelyI",
+            "synonyms": [
+                "feeling so lonelyi"
+            ]
+        },
+        {
+            "keyword": "how ill manage",
+            "synonyms": [
+                "how ill manage"
+            ]
+        },
+        {
+            "keyword": "scared",
+            "synonyms": [
+                "scared"
+            ]
+        }
+    ]
+}

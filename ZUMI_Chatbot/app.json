@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip ZUMI_Chatbot.zip ZUMI_Chatbot\/app.json ZUMI_Chatbot\/entities\/*.json ZUMI_Chatbot\/intents\/*.json ZUMI_Chatbot\/traits\/*.json ZUMI_Chatbot\/utterances\/*.json",
+    "name": "ZUMI_Chatbot",
+    "lang": "en",
+    "timezone": "America\/Los_Angeles"
+}

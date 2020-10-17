@@ -1,0 +1,36 @@
+{
+    "name": "work",
+    "roles": [
+        "work"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "assignmen",
+            "synonyms": [
+                "assignmen"
+            ]
+        },
+        {
+            "keyword": "deadlline",
+            "synonyms": [
+                "deadlline"
+            ]
+        },
+        {
+            "keyword": "test",
+            "synonyms": [
+                "test"
+            ]
+        },
+        {
+            "keyword": "work",
+            "synonyms": [
+                "work"
+            ]
+        }
+    ]
+}

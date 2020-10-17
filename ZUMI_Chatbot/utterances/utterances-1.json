@@ -1,0 +1,250 @@
+{
+    "utterances": [
+        {
+            "text": "I am feeling so lonelyI",
+            "entities": [
+                {
+                    "entity": "mood:mood",
+                    "start": 5,
+                    "end": 24,
+                    "body": "feeling so lonelyI",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "I am scared",
+            "entities": [
+                {
+                    "entity": "mood:mood",
+                    "start": 5,
+                    "end": 11,
+                    "body": "scared",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "I am very tired today.I",
+            "entities": [
+                {
+                    "entity": "tired:tired",
+                    "start": 5,
+                    "end": 15,
+                    "body": "very tired",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "I dont know how ill manage",
+            "entities": [
+                {
+                    "entity": "mood:mood",
+                    "start": 12,
+                    "end": 26,
+                    "body": "how ill manage",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "I had a bad day",
+            "entities": [
+                {
+                    "entity": "wit$contact:contact",
+                    "start": 0,
+                    "end": 1,
+                    "body": "I",
+                    "entities": []
+                },
+                {
+                    "entity": "type_day:type_day",
+                    "start": 8,
+                    "end": 15,
+                    "body": "bad day",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "I have a test tomorrow.",
+            "entities": [
+                {
+                    "entity": "wit$datetime:datetime",
+                    "start": 14,
+                    "end": 22,
+                    "body": "tomorrow",
+                    "entities": []
+                },
+                {
+                    "entity": "work:work",
+                    "start": 9,
+                    "end": 13,
+                    "body": "test",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "I have to finish my work before deadlline",
+            "entities": [
+                {
+                    "entity": "work:work",
+                    "start": 20,
+                    "end": 24,
+                    "body": "work",
+                    "entities": []
+                },
+                {
+                    "entity": "work:work",
+                    "start": 32,
+                    "end": 41,
+                    "body": "deadlline",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "I love sameeksha",
+            "entities": [
+                {
+                    "entity": "feeling_love:feeling_love",
+                    "start": 2,
+                    "end": 6,
+                    "body": "love",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "I need rest.I",
+            "entities": [
+                {
+                    "entity": "tired:tired",
+                    "start": 6,
+                    "end": 13,
+                    "body": " rest.I",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "I want to talk to her.",
+            "entities": [
+                {
+                    "entity": "Love_miss:Love_miss",
+                    "start": 2,
+                    "end": 14,
+                    "body": "want to talk",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "It was a good day.",
+            "entities": [
+                {
+                    "entity": "type_day:type_day",
+                    "start": 8,
+                    "end": 17,
+                    "body": " good day",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "My assignment is due.",
+            "entities": [
+                {
+                    "entity": "work:work",
+                    "start": 3,
+                    "end": 12,
+                    "body": "assignmen",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "This day was aweful",
+            "entities": [
+                {
+                    "entity": "wit$contact:contact",
+                    "start": 13,
+                    "end": 19,
+                    "body": "aweful",
+                    "entities": [
+                        {
+                            "entity": "type_day:type_day",
+                            "start": 0,
+                            "end": 6,
+                            "body": "aweful",
+                            "entities": []
+                        }
+                    ]
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "We havent met for such a long time.",
+            "entities": [
+                {
+                    "entity": "Love_miss:Love_miss",
+                    "start": 3,
+                    "end": 13,
+                    "body": "havent met",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        },
+        {
+            "text": "hello, I am Vanshika",
+            "entities": [
+                {
+                    "entity": "greeting:greeting",
+                    "start": 0,
+                    "end": 5,
+                    "body": "hello",
+                    "entities": []
+                },
+                {
+                    "entity": "wit$contact:contact",
+                    "start": 12,
+                    "end": 20,
+                    "body": "Vanshika",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "introduce"
+        }
+    ]
+}

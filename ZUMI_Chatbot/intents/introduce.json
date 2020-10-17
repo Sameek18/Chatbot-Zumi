@@ -1,0 +1,14 @@
+{
+    "name": "introduce",
+    "entities": [
+        "Love_miss:Love_miss",
+        "feeling_love:feeling_love",
+        "greeting:greeting",
+        "mood:mood",
+        "tired:tired",
+        "type_day:type_day",
+        "wit$contact:contact",
+        "wit$datetime:datetime",
+        "work:work"
+    ]
+}

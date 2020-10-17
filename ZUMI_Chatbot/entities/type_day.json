@@ -1,0 +1,30 @@
+{
+    "name": "type_day",
+    "roles": [
+        "type_day"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "aweful",
+            "synonyms": [
+                "aweful"
+            ]
+        },
+        {
+            "keyword": "bad day",
+            "synonyms": [
+                "bad day"
+            ]
+        },
+        {
+            "keyword": "good day",
+            "synonyms": [
+                "good day"
+            ]
+        }
+    ]
+}
